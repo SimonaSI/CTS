@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/AdapterClase/AdapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.iml" filepath="$PROJECT_DIR$/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2_2.iml" filepath="$PROJECT_DIR$/seminar2_2.iml" />
