@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterClase/AdapterClase.iml" filepath="$PROJECT_DIR$/AdapterClase/AdapterClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.iml" filepath="$PROJECT_DIR$/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2_2.iml" filepath="$PROJECT_DIR$/seminar2_2.iml" />

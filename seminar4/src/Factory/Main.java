@@ -19,7 +19,8 @@ public class Main {
         System.out.println(factory.creareMijlocTransportComun("Merge").getNrInmatriculare());
 
         Factory factory1 = new MicrobuzFactory();
-        System.out.println(factory.creareMijlocTransportComun("Merge microbuz").getNrInmatriculare());
+        modulAfisareMijlocTransport(factory1, "MErge");
+        //System.out.println(factory.creareMijlocTransportComun("Merge microbuz").getNrInmatriculare());
 
     }
 }
