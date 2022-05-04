@@ -18,6 +18,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         ValidatorSubteran validatorSubteran = new ValidatorMetrou();
         ValidatorTerestru validatorTerestru = new ValidatorAutobuz();
         Adapter adapter = new Adapter(validatorSubteran);

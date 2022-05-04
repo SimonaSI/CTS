@@ -20,7 +20,7 @@ public class Main {
 
         Factory factory1 = new MicrobuzFactory();
         modulAfisareMijlocTransport(factory1, "MErge");
-        //System.out.println(factory.creareMijlocTransportComun("Merge microbuz").getNrInmatriculare());
+        System.out.println(factory.creareMijlocTransportComun("Merge microbuz").getNrInmatriculare());
 
     }
 }

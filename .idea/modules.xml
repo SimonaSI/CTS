@@ -9,8 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memento/Memento.iml" filepath="$PROJECT_DIR$/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.iml" filepath="$PROJECT_DIR$/seminar1.iml" />
